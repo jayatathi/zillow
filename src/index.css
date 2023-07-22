@@ -1,0 +1,22 @@
+.custom-nav {
+    font-size: 10px !important;
+    padding-right: 6px;
+}
+
+.pl-2 {
+    padding-left: 4px;
+}
+
+.section {
+    height: calc(100vh - 105px);
+    background-image: url(banner.jpg);
+    background-size: contain;
+}
+
+.custom-footer {
+    height: 60px;
+}
+
+.custom-search {
+    width: 300px;
+}
